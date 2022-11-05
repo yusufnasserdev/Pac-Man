@@ -1,6 +1,8 @@
+<div align="center">
+    <img src="https://github.com/ziad-khobeiz/Pac-Man/blob/master/assets/logo.png" alt="Pac-Man">
+</div>
 
-![alt text](https://github.com/ziad-khobeiz/Pac-Man/blob/master/assets/logo.png)
-===
+#
 
 A Pac-Man game clone made using C++ and SFML.
 
@@ -16,7 +18,7 @@ The game consists of a maze containing dots, super-dots, and bonus fruits. The p
 - [Ziad Khobeiz](https://github.com/ziad-khobeiz/)
 - [Abdelaziz Mostafa](https://github.com/Abdel-AzizMostafa)
 - [Steven Sameh](https://github.com/stevensameh)
-- [Yusuf Nasser](https://github.com/YousefNasser)
+- [Yusuf Nasser](https://github.com/yusufnasserdev)
 - [Ayman Hassan](https://github.com/aymanred121)
 - Mohamed Hagag
 
